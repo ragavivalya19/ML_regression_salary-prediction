@@ -71,19 +71,12 @@ Evaluation Metrics:
 The Linear Regression model achieved an R² score of 0.85, indicating a strong relationship between the features and salary.
 
 
-📌 Future Improvements
-
-Add more features to improve accuracy
-
-Try advanced models like XGBoost
-
-Deploy the model as a web application
-
 👨‍💻 Author
 
 Ragavivalya W
 Data Science Student
 GitHub: https://github.com/ragavivalya19
+https://github.com/ragavivalya19/Salary-Prediction.ipynb/blob/main/Salary_Prediction.ipynb
 
 
 
