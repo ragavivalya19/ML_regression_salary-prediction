@@ -70,14 +70,6 @@ Evaluation Metrics:
 📊 Results
 The Linear Regression model achieved an R² score of 0.85, indicating a strong relationship between the features and salary.
 
-▶️ How to Run the Project
-
-1.Clone the repository
-
-2.Install required libraries
-
-3.Run the notebook
-https://github.com/ragavivalya19/Salary-Prediction.ipynb/settings
 
 📌 Future Improvements
 
@@ -92,6 +84,7 @@ Deploy the model as a web application
 Ragavivalya W
 Data Science Student
 GitHub: https://github.com/ragavivalya19
+
 
 
 
