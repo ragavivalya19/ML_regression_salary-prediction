@@ -73,6 +73,7 @@ Evaluation Metrics:
 *R² Score
 
 📊 Results
+
 The Linear Regression model achieved an R² score of 0.85, indicating a strong relationship between the features and salary.
 
 
