@@ -3,6 +3,7 @@
 Salary Prediction using Machine Learning
 
 📌 Project Overview
+
 This project predicts employee salaries using machine learning techniques.
 The dataset contains features such as experience, education level, and job role.
 Data preprocessing, visualization, and regression models were used to analyze and predict salary.
